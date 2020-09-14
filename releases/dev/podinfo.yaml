@@ -16,7 +16,7 @@ spec:
   values:
     image:
       repository: greensweep/podinfo
-      tag: dev-xlqqqj0z
+      tag: dev-whllwi98
     replicaCount: 1
     hpa:
       enabled: false
